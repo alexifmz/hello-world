@@ -14,6 +14,8 @@ In Diesem Repository findest du:
 
 In der ersten Lektionen von IPT1 habe ich die Grundlagen der Versionsverwaltung mit Git und GitHub gelernt. Ich verstehe nun, wie Commits, Branches und Merges funktionieren und wie man Repositories strukturiert.
 
+Ich habe gelernt, wie Commits, Branches und Merges funktionieren und wie man Repositories strukturiert. Ausserdem habe ich mich mit Markdown beschäftigt, um Texte und Dokumentationen übersichtlich zu gestalten.
+
 ## Wichtige sachen die ich gelernt habe:
 **Markdown**
 **Versionierung**
