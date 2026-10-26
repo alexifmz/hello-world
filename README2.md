@@ -240,17 +240,16 @@ Ich möchte ein eigenes kleines Projekt auf GitHub hochladen und ein gutes READM
 
 ## 8 · Begriffe · deutsche Merkhilfe
 
-Begriff | Deutsche Merkhilfe |
-IssueL Eine Aufgabe oder ein Problem |
-Branch: Ein eigener Arbeitszweig |
-Commit: Ein Speicherpunkt mit Änderungen |
-Push: Änderungen zu GitHub hochladen |
-Pull: Änderungen von GitHub holen |
-Pull Request: Vorschlag für Änderungen |
-Review: Änderungen kontrollieren |
-Merge: Änderungen zusammenführen |
-Clone: Ein Repository auf den Computer kopieren |
-Repository: Projekt mit Dateien und Git-Geschichte |
+Issue: Eine Aufgabe oder ein Problem
+Branch: Ein eigener Arbeitszweig
+Commit: Ein Speicherpunkt mit Änderungen
+Push: Änderungen zu GitHub hochladen
+Pull: Änderungen von GitHub holen
+Pull Request: Vorschlag für Änderungen
+Review: Änderungen kontrollieren
+Merge: Änderungen zusammenführen
+Clone: Ein Repository auf den Computer kopieren
+Repository: Projekt mit Dateien und Git-Geschichte
 
 9 · Selbstcheck
 
