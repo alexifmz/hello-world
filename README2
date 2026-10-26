@@ -1,4 +1,4 @@
-**Name:** Alex 
+**Name** Alex 
 **Datum:** 26.10.2026
 
 ## Ziel
@@ -141,13 +141,12 @@ Man erstellt ein Issue, arbeitet auf einem Branch, macht Commits, erstellt einen
 
 **32. Ordne die Begriffe zu**
 
-| Bedeutung | Git-/GitHub-Begriff |
-|---|---|
-| Aufgabe | Issue |
-| Arbeitszweig | Branch |
-| Speicherpunkt | Commit |
-| Änderungsantrag | Pull Request |
-| Zusammenführen | Merge |
+Bedeutung Git-/GitHub-Begriff 
+Aufgabe: / Issue
+Arbeitszweig / Branch
+Speicherpunkt / Commit 
+Änderungsantrag / Pull Request 
+Zusammenführen / Merge 
 
 **33. Welche Richtung beschreibt Push?**
 
@@ -235,36 +234,32 @@ Ich möchte ein eigenes kleines Projekt auf GitHub hochladen und ein gutes READM
 
 ## 7 · Microsoft Learn · Abschlusskontrolle
 
-- [ ] Einführung in GitHub: Übung, Modulbewertung und Zusammenfassung abgeschlossen
-- [ ] Effektive Kommunikation auf GitHub mithilfe von Markdown abgeschlossen
-- [ ] Ich habe meinen Lernfortschritt / meine Modulbewertung kontrolliert.
+- Einführung in GitHub: Übung, Modulbewertung und Zusammenfassung abgeschlossen / ja
+- Effektive Kommunikation auf GitHub mithilfe von Markdown abgeschlossen / ja
+- Ich habe meinen Lernfortschritt / meine Modulbewertung kontrolliert. / ja
 
 ## 8 · Begriffe · deutsche Merkhilfe
 
-| Begriff | Deutsche Merkhilfe |
-|---|---|
-| Issue | Eine Aufgabe oder ein Problem |
-| Branch | Ein eigener Arbeitszweig |
-| Commit | Ein Speicherpunkt mit Änderungen |
-| Push | Änderungen zu GitHub hochladen |
-| Pull | Änderungen von GitHub holen |
-| Pull Request | Vorschlag für Änderungen |
-| Review | Änderungen kontrollieren |
-| Merge | Änderungen zusammenführen |
-| Clone | Ein Repository auf den Computer kopieren |
-| Repository | Projekt mit Dateien und Git-Geschichte |
+Begriff | Deutsche Merkhilfe |
+IssueL Eine Aufgabe oder ein Problem |
+Branch: Ein eigener Arbeitszweig |
+Commit: Ein Speicherpunkt mit Änderungen |
+Push: Änderungen zu GitHub hochladen |
+Pull: Änderungen von GitHub holen |
+Pull Request: Vorschlag für Änderungen |
+Review: Änderungen kontrollieren |
+Merge: Änderungen zusammenführen |
+Clone: Ein Repository auf den Computer kopieren |
+Repository: Projekt mit Dateien und Git-Geschichte |
 
-## 9 · Selbstcheck
+9 · Selbstcheck
 
-- [x] Ich kann Git und GitHub unterscheiden.
-- [x] Ich kann Issue → Branch → Commit → Pull Request → Merge erklären.
-- [x] Ich kenne den Unterschied zwischen Commit und Push.
-- [x] Ich kenne den Unterschied zwischen Pull und Pull Request.
-- [x] Ich kann Überschriften, Listen, Links, Bilder und Codeblöcke in Markdown verwenden.
+- [ja] Ich kann Git und GitHub unterscheiden.
+- [ja] Ich kann Issue → Branch -> Commit -> Pull Request -> Merge erklären.
+- [ja] Ich kenne den Unterschied zwischen Commit und Push.
+- [ja] Ich kenne den Unterschied zwischen Pull und Pull Request.
+- [ja] Ich kann Überschriften, Listen, Links, Bilder und Codeblöcke in Markdown verwenden.
 - [ ] Mein README wird auf GitHub korrekt gerendert.
-- [x] Ich habe mindestens eine konkrete Verbesserung umgesetzt.
+- [ja] Ich habe mindestens eine konkrete Verbesserung umgesetzt.
 - [ ] Ich habe meine Änderung mit einer aussagekräftigen Commit-Nachricht dokumentiert.
 
-**Meine Commit-Nachricht für diese Abgabe**
-
-`Complete IPT1 GitHub and Markdown learning session`
