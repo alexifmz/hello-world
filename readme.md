@@ -214,6 +214,9 @@ git push
 
 Es sollte das Projekt erklären, die wichtigsten Funktionen zeigen und sagen, wie man es benutzen kann. Es soll übersichtlich sein und nicht zu viel Text haben.
 
+## GitHub Basics
+Ich musste GitHub Desktop herunterladen und ein neues Repository machen. Es heisst IPT2.1 Projekt. Ich muss wissen, wie Git Bash funktionert.
+
 ## 6 · Mein fachlicher Lernnachweis
 
 **Was habe ich heute über Git und GitHub gelernt?**
