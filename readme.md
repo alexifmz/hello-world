@@ -241,6 +241,11 @@ Ich möchte ein eigenes kleines Projekt auf GitHub hochladen und ein gutes READM
 - Effektive Kommunikation auf GitHub mithilfe von Markdown abgeschlossen / ja
 - Ich habe meinen Lernfortschritt / meine Modulbewertung kontrolliert. / ja
 
+## 7.5 LS5 und LS6
+- Gelernt, wie man C#-Switch-Code macht.
+- Wie man ein PAP erstellt
+- Ablauf
+
 ## 8 · Begriffe · deutsche Merkhilfe
 
 Issue: Eine Aufgabe oder ein Problem
